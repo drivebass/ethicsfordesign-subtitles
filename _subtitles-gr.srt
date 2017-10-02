@@ -1,58 +1,58 @@
 2
 00:00:12,000 --> 00:00:13,169
-I really enjoyed making things
+Απολάμβανα να δημιουργώ πράγματα
 
 3
 00:00:13,250 --> 00:00:16,228
-but I was getting really tired of making other people’s ideas
+αλλά είχα αρχίσει να κουράζομαι δημιουργόντας πάνω σε ιδέες άλλων 
 
 4
 00:00:16,230 --> 00:00:20,148
-and I was getting very cynical about the world of advertising.
+και είχα αρχίσει να γίνομαι ιδιαίτερα κυνικός με τον κόσμο της διαφήμισης.
 
 5
 00:00:20,152 --> 00:00:22,030
-A lot of the work we were doing was
+Οι περισσότερη δουλειά που κάναμε ήταν
 
 6
 00:00:22,040 --> 00:00:23,090
-making TV commercials
+να φτιάχνουμε τηλεοπτικά διαφημιστικά
 
 7
 00:00:23,101 --> 00:00:26,119
-to try to sell products I don’t particularly like very much.
+για να πουλήσουμε προϊόντα τα οποία δεν μου άρεσαν ιδιαίτερα.
 
 8
 00:00:27,191 --> 00:00:30,129
-So age 29 I applied to
+Οπότε στην ηλικία των 29 έκανα αίτηση στο
 
 9
 00:00:30,130 --> 00:00:33,209
-the Royal College of Art
+Royal College of Art
 
 10
 00:00:34,050 --> 00:00:36,009
-to do a course called Design Products.
+για να κάνω μια σειρά μαθημάτων υπό τον τίτλο Design Προϊόντων.
 
 11
 00:00:37,051 --> 00:00:40,198
-Ron Arad the architect and designer had just taken over
+Ο Ron Arad, αρχιτέκτονας και designer μόλις είχει αναλάβει
 
 12
 00:00:40,210 --> 00:00:42,159
-the professorship of that course
+την εποπτεία αυτού του τμήματος
 
 13
 00:00:43,161 --> 00:00:45,140
-I was offered a place and started there
+Μου προσφέρθηκε μια θέση και ξεκίνησα από εκεί
 
 14
 00:00:46,060 --> 00:00:48,099
-and that introduced me to,
+κι ήταν αυτό που με οδήγησε
 
 15
 00:00:49,060 --> 00:00:51,218
-I guess, the kind of work we still do to this day:
+πιστεύω, στο είδος εργασίας που κάνουμε μέχρι σήμερα:
 
 16
 00:00:52,080 --> 00:00:53,035
@@ -60,222 +60,223 @@ critical design,
 
 17
 00:00:53,140 --> 00:00:55,209
-using design to question technology,
+χρησιμποιώντας το design για να εξετάσουμε την τεχνολογία,
 
 18
 00:00:56,160 --> 00:00:59,350
-building a lot of interesting products that
+δημιουργώντας πολλά ενδιαφέροντα προϊόντα τα οποία
 
 19
 00:00:59,642 --> 00:01:01,561
-would do that instead of using the written word,
+θα έκαναν ακριβώς αυτό αντί να χρησιμοποιούμε απλά την θεωρία,
 
 20
 00:01:02,096 --> 00:01:05,815
-using objects and designed artefacts to
+χρησιμοποιούμε και σχεδιάζουμε χειροποιήτα αντικείμενα για να  
 
 21
 00:01:06,15 --> 00:01:08,359
-change the way we think about things,
+αλλάξουμε το τρόπο που σεκφτόμαστε για τα πράγματα,
 
 22
 00:01:08,985 --> 00:01:10,737
-to encourage to think differently about
+να ενθαρρύνουμε την διαφορετική σκέψη σχετικά με
 
 23
 00:01:10,738 --> 00:01:12,612
-technology and technological products.
+την τεχνολογία και τα τεχνολογικά προϊόντα.
 
 24
 00:01:13,198 --> 00:01:15,283
-You have a device where the signal comes in
+Έχεις μια συσκευή η οποία λαμβάνει το σήμα
 
 25
 00:01:15,699 --> 00:01:17,035
-but then that broadcast you
+αλλά έπειτα σου μεταδίδει
 
 26
 00:01:17,036 --> 00:01:18,912
-a low frequency into the mouth
+μια χαμηλή συχνότητα στο στόμα
 
 27
 00:01:19,329 --> 00:01:21,022
-and it translated into
+η οποία μεταφράζεται
 
 28
 00:01:22,123 --> 00:01:22,957
-a vibration
+σαν μια δόνηση
 
 29
 00:01:23,458 --> 00:01:25,235
-into the inner ear and it’s perceived as
+στο εσωτερικό αυτί και γίνεται αντιληπτή
 
 30
 00:01:26,211 --> 00:01:27,629
-sound streaming, a streaming sound.
+σαν μετάδοση ήχου, σαν ηχητική εκπομπή.
 
 31
 00:01:28,004 --> 00:01:29,047
-The possibilities are endless,
+Οι πιθανότητες είναι ανεξάντλητες,
 
 32
 00:01:29,048 --> 00:01:32,687
-prime ministers could receive secret guidance from their special advisors,
+πρωθυπουργοί θα μπορούσαν να λαμβάνουν μυστική καθοδήγηση από ειδικούς συμβούλους,
 
 33
 00:01:33,218 --> 00:01:36,102
-football coaches could pass tactical instructions to their players
+προπονητές ποδοσφαίρου θα μπορούσαν να δίνουν οδηγίες τακτικής στους παίκτες τους
 
 34
 00:01:36,888 --> 00:01:38,056
-and no one will ever know.
+και κανείς δεν θα μπορούσε να το ξέρει.
 
 35
 00:01:38,098 --> 00:01:39,599
-Imagine the guy on the stock market,
+Φανταστείτε έναν τύπο του χρηματιστηρίου,
 
 36
 00:01:39,891 --> 00:01:43,269
-if he’s in the theater, if he’s in the cinema, if he’s sleepy in bed, if he’s on the beach
+αν είναι στο θέατρο, στο σινεμά, αν κοιμάται στο κρεβάτι του, αν είναι στην παραλία
 
 37
 00:01:44,270 --> 00:01:47,899
-the stock rumors information about a companies collapsing and so on
+οι πληροφορίες για φήμες σχετικά με μετοχές εταιριών που πρόκειται να καταρρεύσουν κλπ.
 
 38
 00:01:48,191 --> 00:01:49,776
-could reach him immediately and he could react to it.
+θα μπορούσαν να φτάσουν σε αυτόν άμεσα και θα μπορούσε να αντιδράσει.
 
 39
 00:01:50,030 --> 00:01:53,00
-I’ve started thinking about Mo's project of energy independence
+Έχω αρχίσει να σκέφτομαι το project του Mo για την ενεργειακή ανεξαρτησία
 
 40
 00:01:53,05 --> 00:01:55,09
-and I’ve starting looking at the madeiran landscape.
+και έχω ξεκινήσει να παρατηρώ το τοπίο της Μαδέρα.
 
 41
 00:01:55,10 --> 00:01:58,05
-You can’t see it too much throught the way the lens is pointing
+Δεν μπορείς να το δεις καλά βέβαια έτσι όπως στοχεύουν οι φακοί
 
 42
 00:01:58,06 --> 00:02:00,995
-but where I’m looking I can see these huge cliffsides,
+αλλά εκεί που κοιτάζω μπορώ να δω αυτές τις τεράστιες πλαγιές γκρεμών,
 
 43
 00:02:01,07 --> 00:02:03,02
-Madeira is extremely vertical.
+Η Μαδέρα είναι ιδιαίτερα κάθετη.
 
 44
 00:02:03,735 --> 00:02:07,085
-So I started wondering what Mo's project could be in Madeira
+Έτσι αναρωτιόμουν πως θα ήταν το project του Mo στην Μαδέρα
 
 45
 00:02:07,544 --> 00:02:11,506
-and very quickly came up with this idea of the gravity battery.
+και πολύ γρήγορα μου προέκυψε η ιδέα της μπαταρίας βαρύτητας.
 
 46
 00:02:13,174 --> 00:02:16,386
-So essentially in a nutshell, the gravity battery,
+Ουσιαστικά με λίγα λόγια, η μπαταρία βαρύτητας,
 
 47
 00:02:17,470 --> 00:02:22,475
-it’s a device that works as a storage medium
+είναι μια συσκευή που λειτουργεί σαν μέσο αποθήκευσης
 
 48
 00:02:23,017 --> 00:02:25,19
-so you still use your solar panels or wind turbines,
+οπότε εξακολουθείς να χρησιμοποιείς ηλιακά πάνελ ή ανεμογεννήτριες,
 
 49
 00:02:25,20 --> 00:02:29,315
-any renewable energy generation technique, but that energy
+κάθε τεχνική ανανεώσιμης ενέργειας, αλλά αυτή η ενέργεια
 
 50
 00:02:29,758 --> 00:02:33,319
-is generated if it’s sunshine often when people are at work or away from home,
+παράγεται μόνο αν υπάρχει λιακάδα που συχνά ο κόσμος είναι στις δουλειές του ή μακριά από το σπίτι,
 
 51
 00:02:33,611 --> 00:02:34,696
-when they don’t need the power.
+όταν δεν χρειάζονται αυτή την ενέργεια.
 
 52
 00:02:35,363 --> 00:02:37,907
-The only solution to that right now is to sell it back to the grid,
+Η μόνη λύση αυτή τη στιγμή είναι να πουλήσεις την ενέργεια στην εταιρία του δικτύου,
 
 53
 00:02:38,408 --> 00:02:40,869
-so that’s the owners of the infrastructure,
+που είναι και οι ιδιοκτήτες της υποδομής,
 
 54
 00:02:41,512 --> 00:02:46,124
-and year on year on year they’ve been reducing the price that they buy back for, making it unviable.
+και χρόνο με το χρόνο μειώνουν την τιμή με την οποία αγοράζουν, κάνοντας το μη βιώσιμο.
 
 55
 00:02:47,000 --> 00:02:51,629
-With the gravity battery what we allow people to do is to use this solar energy to lift a mass
+Με την μπαταρία βαρύτητας επιτρέπουμε στον κόσμο να χρησιμοποιήσει αυτή την ηλιακή ενέργεια για να σηκώσει ένα βάρος
 
 56
 00:02:52,505 --> 00:02:56,551
-into the air and with a lot of the cliffsides in the madeiran communities that can be
+στον αέρα και με τόσες πλαγιές στις κοινότητες της Μαδέρα αυτό μπορεί 
 
 57
 00:02:57,093 --> 00:03:01,931
-anything from 10-14 all the way through 500 meters of verticality.
+να σημαίνει από 10-14 μέχρι τα 500 μέτρα κάθετων κλήσεων.
 
 58
 00:03:01,933 --> 00:03:06,769
-So the more height you have the more time you have to drop the mass and the more energy you can essentially store.
+Οπότε όσο περισσότερο ύψος έχεις όσο περισσότερο χρόνο έχεις να ρίξεις το βάρος τόσο περισσότερη ενέργεια μπορείς να αποθηκεύσεις.
 
 59
 00:03:08,062 --> 00:03:11,941
-So you lift the mass during the daytime and then when you need the energy you come home from work,
+Οπότε σηκώνεις το βάρος στην διάρκεια της μέρας και έπειτα όταν χρειάζεσαι την ενέργεια επιστρέφεις από την δουλειά, 
 
 60
 00:03:12,400 --> 00:03:17,030
-it’s dark, there’s no sunshine anymore you can release the mass it falls through space,
+έχει σκοτεινιάσει, δεν υπάρχει πλέον ηλιακό φώς και  μπορείς να αφήσεις το βάρος να πέσει στο κενό,
 
 61
 00:03:17,822 --> 00:03:21,576
-via a gearbox, turning a generator to generate electricity.
+μέσω ενός κιβωτίου ταχυτήτων, ενεργοποιείς μια γεννήτρια που παράγει ηλεκτρισμό.
 
 62
 00:03:22,327 --> 00:03:23,560
-It’s all open source,
+Είναι όλα open-source,
 
 63
 00:03:24,003 --> 00:03:28,625
-so we’re removing the role of big corporations of large manufacturing plants,
+οπότε αφαιρούμε τον ρόλο των μεγάλων εταιριών των μεγάλων εργοστασίων,
 
 64
 00:03:29,000 --> 00:03:34,505
-we're making it quite easy to build, so the current version is using a motorcycle engine
+το σχεδιάζουμε ώστε να είναι εύκολο να κατασκευαστεί, οπότε η τρέχουσα έκδοση χρησιμοποιεί μια μηχανή μοτοσυκλέτας
 
 65
 00:03:35,089 --> 00:03:37,217
-that we found in a local breaker’s yard, it’s very cheap,
+που βρήκαμε σε μια τοπική μάντρα, είναι πολύ φτηνή,
 
 66
 00:03:37,434 --> 00:03:40,803
-so we’re appropriating the motorcycle gearbox
+οπότε προσαρμόζουμε το κιβώτιο ταχυτήτων της μοτοσικλέτας
 
 67
 00:03:41,804 --> 00:03:43,556
-because they’re very accurate and already made
+γιατί είναι πολύ ακριβές και έτοιμο
 
 68
 00:03:43,932 --> 00:03:47,227
-and then we just play around with the gearing and play around with the mass,
+και έπειτα παίζουμε με την επιτάχυνση και το βάρος,
 
 69
 00:03:47,946 --> 00:03:51,689
-play around with the drop speed and we can adapt it to many differents domestic products.
+με την ταχύτητας πτώσης και μπορούμε να το προσαρμόσουμε σε πολλά διαφορετικά τοπικά προϊόντα.
 
 70
 00:04:21,655 --> 00:04:25,736
-in Nimes we have coined the term "inhabitability" of a world.
+στην Νιμ έχουμε εφεύρει τον όρο “μη κατοικισιμότητα” ενός κόσμου.
 
 71
 00:04:26,490 --> 00:04:29,602
+Λέμε ότι το design μπορεί να 
 We say that design can attempt
 
 72
